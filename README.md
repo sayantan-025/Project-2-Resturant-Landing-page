@@ -1,8 +1,8 @@
-# Project-1-Trends Landing Page
+# Project-2-Resturant Landing Page
 
 ![Created By Sayantan Bera](https://img.shields.io/badge/Created%20By-Sayantan%20Bera-blue)
 
-## **Project-1** [Live Link](https://resturant-landing-page-sayantan.netlify.app/)
+## **Project-2** [Live Link](https://resturant-landing-page-sayantan.netlify.app/)
 
 ### Website Image
 
